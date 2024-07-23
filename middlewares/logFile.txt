@@ -1,0 +1,7 @@
+New user Authenticated!
+Username: Prxh
+Password: Prxh@2002
+URL: /api/checkLoggerData/Prxh/Prxh@2002
+Date: 11/7/2024, 9:45:27 am
+Method Type: POST
+
